@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Felipe Elia</h1>
 <h3>Lead Web Engineer <a href="https://10up.com/" target="blank">@10up</a></h3>
 
-- 🔭 I’m currently working on [ElasticPress](https://github.com/10up/ElasticPress/) and [Contact Form 7 - Repeatable Fields](https://github.com/felipeelia/cf7-repeatable-fields)
+- 🔭 I’m currently working on [ElasticPress](https://github.com/10up/ElasticPress/)
 - 👯 I’m looking to collaborate on [WordPress](https://github.com/WordPress/wordpress-develop/)
 - 🤝 I’m looking for help with [Contact Form 7 - Repeatable Fields](https://github.com/felipeelia/cf7-repeatable-fields)
 - 📝 I regularly write articles on [https://felipeelia.dev/](https://felipeelia.dev/)

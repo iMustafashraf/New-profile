@@ -11,11 +11,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [WordPress São Paulo – Super Meetup 2023](https://felipeelia.dev/wordpress-sao-paulo-super-meetup-2023-en/)
 - [Updating my profile on GitHub](https://felipeelia.dev/updating-my-profile-on-github/)
 - [Contact Form 7 – Repeatable Fields 2.0.0](https://felipeelia.dev/contact-form-7-repeatable-fields-2-0-0/)
 - [How I learned about fetchpriority and decoding contributing to WordPress](https://felipeelia.dev/how-i-learned-about-fetchpriority-and-decoding-contributing-to-wordpress/)
 - [What do you take from personal to professional life?](https://felipeelia.dev/what-do-you-take-from-personal-to-professional-life/)
-- [There is no “WordPress Dev”](https://felipeelia.dev/there-is-no-wordpress-dev/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
